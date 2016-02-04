@@ -1,0 +1,15 @@
+alias e="subl"
+alias e.="subl ."
+alias s="npm start"
+alias k="npm run karma"
+alias t="npm test"
+alias b="npm run build"
+alias dp="npm run deploy"
+alias p="cd Dev/projects"
+alias c="cd Dev/contracting"
+alias pjr="cd Dev/projects/projecter"
+alias tt="cd Dev/projects/tomato-tracker"
+alias fp="cd Dev/projects/fightpick"
+alias x="cd Dev/tarmak-xmodmap && xmodmap tarmak4.xmodmap"
+alias wt='webtorrent'
+alias zsh='e .zshrc'
